@@ -2,9 +2,12 @@
 
 Задачи по предыдущим лекциям
 
+### Ссылки на лекции
 [Тренировки по алгоритмам 1.0](https://yandex.ru/yaintern/algorithm-training_1)  
 [Тренировки по алгоритмам 2.0](https://yandex.ru/yaintern/algorithm-training_2)
 
+
+### Задачи
 1. [Гистограмма](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/traning_3/division_b/day1/task_01)
 2. [Красивая строка](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/traning_3/division_b/day1/task_02)
 3. [Коллекционер Диего](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/traning_3/division_b/day1/task_03)
