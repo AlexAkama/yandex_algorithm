@@ -1,4 +1,4 @@
-package traning_3.division_b.day1.task_02;
+package training_3.division_b.day1.task_02;
 
 import java.io.BufferedReader;
 import java.io.File;
