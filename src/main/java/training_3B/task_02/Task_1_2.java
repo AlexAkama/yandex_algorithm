@@ -1,4 +1,4 @@
-package training_3.division_b.day1.task_02;
+package training_3B.task_02;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -9,7 +9,7 @@ import java.io.IOException;
 public class Task_1_2 {
 
     public static void main(String[] args) throws IOException {
-        var input = "src/main/java/day1/task_2/input.txt";
+        var input = "src/main/java/day1/task_2/input1.txt";
         File file = new File(input);
         FileReader fileReader = new FileReader(file);
         try (BufferedReader reader = new BufferedReader(fileReader)) {

@@ -1,4 +1,4 @@
-package training_3.division_b.day1.task_01;
+package training_3B.task_01;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -11,7 +11,7 @@ import java.util.TreeMap;
 public class Task_1_1 {
 
     public static void main(String[] args) throws IOException {
-        var input = "src/main/java/day1/task_1/input.txt";
+        var input = "src/main/java/day1/task_1/input1.txt";
         File file = new File(input);
         FileReader fileReader = new FileReader(file);
         try (BufferedReader reader = new BufferedReader(fileReader)) {

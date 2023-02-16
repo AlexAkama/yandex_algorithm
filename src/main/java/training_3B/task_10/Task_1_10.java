@@ -1,4 +1,4 @@
-package training_3.division_b.day1.task_10;
+package training_3B.task_10;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -13,7 +13,7 @@ public class Task_1_10 {
     // Подход в лоб - взять и посчитать,
     // но TL 1.08s 27.87Mb
     public static void main1(String[] args) throws IOException {
-        var input = "src/main/java/training_3/division_b/day1/task_10/input.txt";
+        var input = "src/main/java/training_3/division_b/day1/task_10/input1.txt";
         File file = new File(input);
         FileReader fileReader = new FileReader(file);
         try (BufferedReader reader = new BufferedReader(fileReader)) {
@@ -40,7 +40,7 @@ public class Task_1_10 {
     }
 
     public static void main(String[] args) throws IOException {
-        var input = "src/main/java/training_3/division_b/day1/task_10/input.txt";
+        var input = "src/main/java/training_3/division_b/day1/task_10/input1.txt";
         File file = new File(input);
         FileReader fileReader = new FileReader(file);
         try (BufferedReader reader = new BufferedReader(fileReader)) {
