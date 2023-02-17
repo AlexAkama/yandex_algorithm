@@ -51,8 +51,8 @@
 <table>
     <thead>
         <tr>
-            <th style="width: 300px; text-align: left">Ввод</th>
-            <th style="width: 300px; text-align: left">Вывод</th>
+            <th style="min-width: 250px; text-align: left">Ввод</th>
+            <th style="min-width: 250px; text-align: left">Вывод</th>
         </tr>
     </thead>
     <tr>
@@ -73,8 +73,8 @@
 <table>
     <thead>
         <tr>
-            <th style="width: 300px; text-align: left">Ввод</th>
-            <th style="width: 300px; text-align: left">Вывод</th>
+            <th style="min-width: 50%; text-align: left">Ввод</th>
+            <th style="min-width: 50%; text-align: left">Вывод</th>
         </tr>
     </thead>
     <tr>
