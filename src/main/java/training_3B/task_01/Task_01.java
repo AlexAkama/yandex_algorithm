@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.util.Map;
 import java.util.TreeMap;
 
-public class Task_1_1 {
+public class Task_01 {
 
     public static void main(String[] args) throws IOException {
         var input = "src/main/java/day1/task_1/input1.txt";

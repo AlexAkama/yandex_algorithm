@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Task_0_A {
+public class Task_A {
 
     public static void main(String[] args) throws IOException {
         var input = "src/main/java/day0/task_a/input_test2.txt";

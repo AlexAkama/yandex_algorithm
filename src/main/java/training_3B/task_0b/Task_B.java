@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
 
-public class Task_0_B {
+public class Task_B {
 
     public static void main(String[] args) throws IOException {
         var input = "src/main/java/day0/task_b/input1.txt";

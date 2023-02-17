@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.util.Map;
 import java.util.TreeMap;
 
-public class Task_1_10 {
+public class Task_10 {
 
     // Подход в лоб - взять и посчитать,
     // но TL 1.08s 27.87Mb

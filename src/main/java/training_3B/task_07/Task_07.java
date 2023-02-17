@@ -7,7 +7,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.text.ParseException;
 
-public class Task_1_7 {
+public class Task_07 {
 
     public static void main(String[] args) throws IOException, ParseException {
         var input = "src/main/java/training_3/division_b/day1/task_07/input_test3.txt";

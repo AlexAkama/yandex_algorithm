@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.util.Set;
 import java.util.TreeSet;
 
-public class Task_1_5 {
+public class Task_05 {
 
     public static void main(String[] args) throws IOException {
         var input = "src/main/java/training_3B/task_05/input.txt";

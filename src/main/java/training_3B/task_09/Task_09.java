@@ -10,7 +10,7 @@ import java.io.IOException;
 // Вычислить сумму всех элементов в подматрице за постоянное время
 // https://www.techiedelight.com/ru/calculate-sum-elements-sub-matrix-constant-time/
 //
-public class Task_1_9 {
+public class Task_09 {
 
     public static void main(String[] args) throws IOException {
         var input = "src/main/java/training_3/division_b/day1/task_09/input1.txt";

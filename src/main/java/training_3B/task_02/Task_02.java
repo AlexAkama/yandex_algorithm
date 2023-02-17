@@ -6,7 +6,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class Task_1_2 {
+public class Task_02 {
 
     public static void main(String[] args) throws IOException {
         var input = "src/main/java/day1/task_2/input1.txt";
