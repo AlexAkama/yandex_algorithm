@@ -27,3 +27,8 @@
 13. [Постфиксная запись](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_13)
 14. [Сортировка вагонов lite](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_14)
 15. [Великое Лайнландское переселение](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_15)
+16. [16. Очередь с защитой от ошибок](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_16)
+17. [17. Игра в пьяницу](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_17)
+18. [18. Дек с защитой от ошибок](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_18)
+19. [19. Хипуй](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_19)
+20. [20. Пирамидальная сортировка](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_20)
