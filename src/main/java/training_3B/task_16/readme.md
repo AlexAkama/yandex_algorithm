@@ -51,7 +51,7 @@
 <table>
     <thead>
         <tr>
-            <th width="250px" align="left">Ввод</th>
+            <th width="250px" align="left" style="background-color:#777; color: #000">Ввод</th>
             <th width="250px" align="left">Вывод</th>
         </tr>
     </thead>
