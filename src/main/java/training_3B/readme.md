@@ -32,3 +32,8 @@
 18. [18. Дек с защитой от ошибок](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_18)
 19. [19. Хипуй](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_19)
 20. [20. Пирамидальная сортировка](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_20)
+21. [21. Три единицы подряд](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_21)
+22. [22. Кузнечик](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_22)
+23. [23. Калькулятор](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_23)
+24. [24. Покупка билетов](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_24)
+25. [25. Гвоздики](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_25)
