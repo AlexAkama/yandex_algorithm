@@ -8,8 +8,8 @@
 
 ##### Пара задач после вводной лекции.
 
-[A. Андрей и кислота](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_0a)  
-[B. Через тернии к клиенту](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_0b)
+[A. Андрей и кислота](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_00a)  
+[B. Через тернии к клиенту](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_00b)
 
 ### Задачи
 1. [Гистограмма](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_01)

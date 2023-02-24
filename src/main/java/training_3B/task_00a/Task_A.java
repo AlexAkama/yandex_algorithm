@@ -1,4 +1,4 @@
-package training_3B.task_0a;
+package training_3B.task_00a;
 
 import java.io.BufferedReader;
 import java.io.File;
