@@ -37,3 +37,13 @@
 23. [Калькулятор](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_23)
 24. [Покупка билетов](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_24)
 25. [Гвоздики](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_25)
+26. [Самый дешевый путь](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_26)
+27. [Вывести маршрут максимальной стоимости](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_27)
+28. [Ход конём](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_28)
+29. [Кафе](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_29)
+30. [НОП с восстановлением ответа](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_30)
+
+
+
+
+
