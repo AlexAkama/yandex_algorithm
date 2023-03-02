@@ -40,3 +40,21 @@
         </td>
     </tr>
 </table>
+
+##### Пример 2
+<table>
+    <thead>
+        <tr>
+            <th width="250px" align="left">Ввод</th>
+            <th width="250px" align="left">Вывод</th>
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            1 10
+        </td>
+        <td>
+            1
+        </td>
+    </tr>
+</table>
