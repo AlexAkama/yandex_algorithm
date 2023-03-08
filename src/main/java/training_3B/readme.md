@@ -51,7 +51,7 @@
 37. [Путь в графе](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_37)
 38. [Блохи](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_38)
 39. [Путь спелеолога](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_39)
-40. [Метро](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_10)
+40. [Метро](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_40)
 
 
 
