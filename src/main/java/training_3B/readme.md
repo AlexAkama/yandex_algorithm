@@ -6,12 +6,12 @@
 [Тренировки по алгоритмам 3.0](https://yandex.ru/yaintern/algorithm-training)
 
 
-##### Пара задач после вводной лекции.
+##### Пара задач после вводной лекции 3.0
 
 [A. Андрей и кислота](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_00a)  
 [B. Через тернии к клиенту](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_00b)
 
-### Задачи
+### Задачи 3.0
 1. [Гистограмма](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_01)
 2. [Красивая строка](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_02)
 3. [Коллекционер Диего](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_03)

@@ -54,3 +54,5 @@
         </td>
     </tr>
 </table>
+
+[Назад к списку задач](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8)
