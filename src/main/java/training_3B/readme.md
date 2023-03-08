@@ -42,6 +42,16 @@
 28. [Ход конём](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_28)
 29. [Кафе](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_29)
 30. [НОП с восстановлением ответа](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_30)
+31. [Поиск в глубину](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_31)
+32. [Компоненты связности](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_32)
+33. [Списывание](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_33)
+34. [Топологическая сортировка](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_34)
+35. [Поиск цикла](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_35)
+36. [Длина кратчайшего пути](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_36)
+37. [Путь в графе](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_37)
+38. [Блохи](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_38)
+39. [Путь спелеолога](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_39)
+40. [Метро](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B/task_10)
 
 
 
