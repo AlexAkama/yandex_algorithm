@@ -9,4 +9,4 @@
 
 
 ### Решения
-[Решения для 3.0](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training_3B)
+[Решения для 3.0](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training/v3b)
