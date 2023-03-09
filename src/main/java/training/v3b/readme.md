@@ -53,6 +53,15 @@
 39. [Путь спелеолога](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training/v3b/task_39)
 40. [Метро](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training/v3b/task_40)
 
+#### Задачи можно разделить на несколько групп:
+- 1-10 Задачи на повторение (тренировок 1.0 и 2.0)
+- 11-15 [Стеки](https://www.youtube.com/watch?v=ZUpImO_2hmA)
+- 16-20 [Очереди, деки и приоритетные очереди](https://www.youtube.com/watch?v=sAyOhkMZae4)
+- 21-25 [Динамическое программирование с одним параметром](https://www.youtube.com/watch?v=H7lu6h8H9-4)
+- 26-30 [Динамическое программирование с двумя параметрами](https://www.youtube.com/watch?v=U8gzm92fprI)
+- 31-35 [Обход графов в глубину](https://www.youtube.com/watch?v=0YjdZlgf9Ig)
+- 36-40 [Обход графов в ширину](https://www.youtube.com/watch?v=5QqVZJ8bA5o)
+
 
 
 
