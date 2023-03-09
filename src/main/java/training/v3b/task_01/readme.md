@@ -17,3 +17,8 @@
 ---
 
 ![img.png](img.png)
+
+
+<br>
+
+[Назад к списку задач](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training/v3b#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8-30)
