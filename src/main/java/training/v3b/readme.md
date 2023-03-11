@@ -47,7 +47,7 @@
 33. [Списывание](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training/v3b/task_33)
 34. [Топологическая сортировка](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training/v3b/task_34)
 35. [Поиск цикла](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training/v3b/task_35)
-36. [Длина кратчайшего пути](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training/v3b/task_36)
+36. [Длина кратчайшего пути](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training/v3b/task_36) ++
 37. [Путь в графе](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training/v3b/task_37)
 38. [Блохи](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training/v3b/task_38)
 39. [Путь спелеолога](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training/v3b/task_39)
