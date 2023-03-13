@@ -44,14 +44,14 @@
 30. [НОП с восстановлением ответа](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training/v3b/task_30) +++++++
 31. [Поиск в глубину](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training/v3b/task_31) +
 32. [Компоненты связности](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training/v3b/task_32) +
-33. [Списывание](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training/v3b/task_33)
+33. [Списывание](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training/v3b/task_33) +++
 34. [Топологическая сортировка](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training/v3b/task_34) +++++
 35. [Поиск цикла](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training/v3b/task_35) +++
 36. [Длина кратчайшего пути](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training/v3b/task_36) ++
 37. [Путь в графе](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training/v3b/task_37) +
 38. [Блохи](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training/v3b/task_38) ++
 39. [Путь спелеолога](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training/v3b/task_39) +
-40. [Метро](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training/v3b/task_40)
+40. [Метро](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training/v3b/task_40) ++++
 
 #### Задачи можно разделить на несколько групп:
 - 1-10 Задачи на повторение (тренировок 1.0 и 2.0)
