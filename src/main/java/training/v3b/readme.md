@@ -11,6 +11,8 @@
 A. [Андрей и кислота](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training/v3b/task_00a)  
 B. [Через тернии к клиенту](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training/v3b/task_00b)
 
+##### Дивизион **B**
+
 1. [Гистограмма](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training/v3b/task_01) ++
 2. [Красивая строка](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training/v3b/task_02) +
 3. [Коллекционер Диего](https://github.com/AlexAkama/yandex_algorithm/tree/main/src/main/java/training/v3b/task_03) +++
